@@ -1,7 +1,10 @@
-Hi, I'm Bhavana K G! 👋
-🔥 Full Stack Developer grinding hard to make something cool
+<h1>Hi 👋, I'm Bhavana K G</h1>
+A Full Stack Web developer
+👀 I’m interested in building web applications.
+🌱 I’m currently learning Figma and Flutter.
 ✨ Favorite Tech: JavaScript, React, Java, Python ...
-📧 bhavanagowda768@gmail.com
+📧 How to reach me bhavanagowda812@gmail.com
+Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -19,13 +22,3 @@ Hi, I'm Bhavana K G! 👋
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a>
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </div>
-
-
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=madan3242" alt="madan3242" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madan3242&show_icons=true&locale=en&layout=compact" alt="madan3242" /></p>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madan3242&show_icons=true&locale=en" alt="madan3242" /></p> -->
-<!---
-madan3242/madan3242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
