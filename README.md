@@ -1,11 +1,10 @@
-<h1>Hi 👋, I'm Bhavana K G</h1>
-A Full Stack Web developer
-👀 I’m interested in building web applications.
-🌱 I’m currently learning Figma and Flutter.
-✨ Favorite Tech: JavaScript, React, Java, Python ...
-📧 How to reach me bhavanagowda812@gmail.com
-Languages and Tools:
-
+@@ -1,20 +1,20 @@
+<h1 align="center">Hi 👋, I'm Bhavana K G</h1>
+<h3 align="center">⚙️A Full Stack Web developer</h3>
+- 👀 I’m interested in building web applications.
+- 🌱 I’m currently learning Flutter and Figma. 
+- 📧 How to reach me bhavanagowda812@gmail.com
+<h3 align="left">Languages and Tools:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
