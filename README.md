@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhavana K G</h1>
 <h3 align="center">⚙️A Full Stack Web developer</h3>
-- 👀 I’m interested in building web applications.
-- 🌱 I’m currently learning Flutter and Figma. 
-- 📧 How to reach me bhavanagowda812@gmail.com
+-👀 I’m interested in building web applications.
+-🌱 I’m currently learning Flutter and Figma. 
+-📧 How to reach me bhavanagowda812@gmail.com
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a>
