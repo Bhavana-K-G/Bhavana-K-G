@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavana K G</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
 
 - 🔭 I’m currently working on [Socio-Pedia](https://github.com/Bhavana-K-G/sociopedia-app)
 
