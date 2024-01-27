@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
 
-- 🔭 I’m currently working on [Socio-Pedia](https://github.com/Bhavana-K-G/sociopedia-app)
+- 🔭 I’m currently working on [Gst-Search]()
 
 - 🌱 I’m currently learning **NodeJs, reactjs, Figma**
 
