@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bhavana-k-g-portfolio.vercel.app/](https://bhavana-k-g-portfolio.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, MERN**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, MERN, Java, Python**
 
 - 📫 How to reach me **bhavanakgowda812@gmail.com**
 
