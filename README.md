@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Gst-Search](https://github.com/Bhavana-K-G/GST-Search)
 
-- 🌱 I’m currently learning **, NodeJs, Figma, Flutter**
+- 🌱 I’m currently learning **ReactJs, NodeJs, Figma, Flutter**
 
 - 👀 I’m interested in **building web applications.**
 
