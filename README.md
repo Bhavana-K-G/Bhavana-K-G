@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on [Gst-Search](https://github.com/Bhavana-K-G/GST-Search)
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, Figma, Flutter**
+- 🌱 I’m currently learning **NodeJs, Figma, Flutter**
 
 - 👀 I’m interested in **building web applications.**
 
 - 👨‍💻 All of my projects are available at [https://bhavana-k-g-portfolio.vercel.app/](https://bhavana-k-g-portfolio.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, MERN, Java, Python**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, ReactJs, MERN, Java, Python**
 
 - 📫 How to reach me **bhavanakgowda812@gmail.com**
 
