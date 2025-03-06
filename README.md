@@ -6,7 +6,7 @@
   
 - 🚀 Passionate about developing **ERP solutions, APIs, and web applications with Frappe, Python, and JavaScript.**
 
-- 🎯 Fun Fact: I love solving tech challenges and exploring new **Frameworks** in my free time!
+- 🎯 **Fun Fact:** I love solving tech challenges and exploring new **Frameworks** in my free time!
 
 - 👨‍💻 All of my projects are available at [https://bhavana-k-g-portfolio.vercel.app/](https://bhavana-k-g-portfolio.vercel.app/)
 
