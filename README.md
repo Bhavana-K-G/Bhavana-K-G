@@ -1,12 +1,12 @@
 <h1 align="center"> Hi 👋, I'm Bhavana K G </h1>
-<h3 align="center">A passionate <strong>Software Developer.</strong></h3>
+<h3 align="center">A Passionate <span style="font-weight: bold;">Software Developer.</span></h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
 
-- 🎯 Fun Fact: I love solving tech challenges and exploring new **Frameworks** in my free time!
-
+- 👀  I’m a Software Developer interested in **Web Applications and Data Science.**
+  
 - 🚀 Passionate about developing **ERP solutions, APIs, and web applications with Frappe, Python, and JavaScript.**
 
-- 👀  I’m a Software Developer interested in **Web Applications and Data Science.**
+- 🎯 Fun Fact: I love solving tech challenges and exploring new **Frameworks** in my free time!
 
 - 👨‍💻 All of my projects are available at [https://bhavana-k-g-portfolio.vercel.app/](https://bhavana-k-g-portfolio.vercel.app/)
 
